@@ -1,0 +1,22 @@
+PATH
+  remote: .
+  specs:
+    app_config (1.0.0)
+      activesupport
+
+GEM
+  remote: https://rubygems.org/
+  specs:
+    activesupport (3.2.13)
+      i18n (= 0.6.1)
+      multi_json (~> 1.0)
+    i18n (0.6.1)
+    multi_json (1.7.3)
+    rake (10.0.4)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  app_config!
+  rake
