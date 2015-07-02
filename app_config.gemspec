@@ -9,6 +9,7 @@ Gem::Specification.new do |s|
   s.homepage    = ''
   s.summary     = %q{Flexible application wide configuration plugin}
   s.description = %q{Flexible application wide configuration plugin}
+  s.license     = 'MIT'
 
   s.rubyforge_project = 'app_config'
 
